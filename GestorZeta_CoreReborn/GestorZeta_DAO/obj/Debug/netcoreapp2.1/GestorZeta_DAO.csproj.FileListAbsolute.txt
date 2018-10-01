@@ -1,0 +1,10 @@
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\bin\Debug\netcoreapp2.1\GestorZeta_DAO.deps.json
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\bin\Debug\netcoreapp2.1\GestorZeta_DAO.runtimeconfig.json
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\bin\Debug\netcoreapp2.1\GestorZeta_DAO.runtimeconfig.dev.json
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\bin\Debug\netcoreapp2.1\GestorZeta_DAO.dll
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\bin\Debug\netcoreapp2.1\GestorZeta_DAO.pdb
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\obj\Debug\netcoreapp2.1\GestorZeta_DAO.csproj.CoreCompileInputs.cache
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\obj\Debug\netcoreapp2.1\GestorZeta_DAO.AssemblyInfoInputs.cache
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\obj\Debug\netcoreapp2.1\GestorZeta_DAO.AssemblyInfo.cs
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\obj\Debug\netcoreapp2.1\GestorZeta_DAO.dll
+C:\_ESTUDO\GestorZeta_CoreReborn\GestorZeta_DAO\obj\Debug\netcoreapp2.1\GestorZeta_DAO.pdb

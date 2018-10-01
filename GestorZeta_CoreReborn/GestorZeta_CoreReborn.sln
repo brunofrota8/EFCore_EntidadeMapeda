@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorZeta_DAO", "GestorZeta_DAO\GestorZeta_DAO.csproj", "{113DEA07-510F-4F36-8357-F9CAAE5A890F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113DEA07-510F-4F36-8357-F9CAAE5A890F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113DEA07-510F-4F36-8357-F9CAAE5A890F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113DEA07-510F-4F36-8357-F9CAAE5A890F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113DEA07-510F-4F36-8357-F9CAAE5A890F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB6AAE94-BC54-4330-8220-84D9E294A9F9}
+	EndGlobalSection
+EndGlobal
