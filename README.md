@@ -1,20 +1,20 @@
 # EFCore_EntidadeMapeda
 Entidade do Gestor Zeta Inteiramente Mapeada com o EF Core
 
-Instalando o Entity
+Instalando o Entity:
 	Install-Package Microsoft.EntityFrameworkCore.SqlServer
 
-Instalando o Tools para Utilizar o Migration
+Instalando o Tools para Utilizar o Migration:
 	Install-Package Microsoft.EntityFrameworkCore.Tools
 	
 	Comandos:
-		Add-Migration
-    Drop-Database
-    Get-DbContext
-    Remove-Migration
-    Scaffold-DbContext
-    Script-Migration
-    Update-Database
+	Add-Migration
+    	Drop-Database
+    	Get-DbContext
+    	Remove-Migration
+    	Scaffold-DbContext
+    	Script-Migration
+    	Update-Database
 
 
 Criar o DBContext
