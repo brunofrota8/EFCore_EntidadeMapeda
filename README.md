@@ -19,7 +19,8 @@ Instalando o Tools para Utilizar o Migration:
 
 Criar o DBContext
 
-Passos para o Mapeamento da Tabela
+
+Passos para o Mapeamento da Tabela:
 	- Criar Classe (Referente a Tabela)
 	- Criar o Contexto da Tabela
 	- Criar o "Configuration" para o Mapeamento da Tabela (ModelBuilder) - Relacionar  Tipos de Dados
